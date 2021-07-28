@@ -1,0 +1,7 @@
+C:\Users\Cuasay\source\repos\Windows Form - Gonzales\FormsCodeApp\obj\Debug\FormsCodeApp.csproj.AssemblyReference.cache
+C:\Users\Cuasay\source\repos\Windows Form - Gonzales\FormsCodeApp\obj\Debug\FormsCodeApp.csproj.CoreCompileInputs.cache
+C:\Users\Cuasay\source\repos\Windows Form - Gonzales\FormsCodeApp\bin\Debug\FormsCodeApp.exe.config
+C:\Users\Cuasay\source\repos\Windows Form - Gonzales\FormsCodeApp\bin\Debug\FormsCodeApp.exe
+C:\Users\Cuasay\source\repos\Windows Form - Gonzales\FormsCodeApp\bin\Debug\FormsCodeApp.pdb
+C:\Users\Cuasay\source\repos\Windows Form - Gonzales\FormsCodeApp\obj\Debug\FormsCodeApp.exe
+C:\Users\Cuasay\source\repos\Windows Form - Gonzales\FormsCodeApp\obj\Debug\FormsCodeApp.pdb
